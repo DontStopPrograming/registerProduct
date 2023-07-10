@@ -1,0 +1,16 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 'Roboto';
+}
+
+img {
+    object-fit: contain;
+}
+
+.form-group {
+    padding: 10px;
+}
+
